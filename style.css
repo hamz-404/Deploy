@@ -6,7 +6,7 @@
 .otbox{
     height: 100vh;
     width: 100vw;
-    background-image: url('assets/53449fa87702af80374c45b87080c639.jpg');
+    background-image: url('53449fa87702af80374c45b87080c639.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -399,4 +399,5 @@ nav{
 
 .login-box button:hover {
     transform: scale(1.1);
+
 }
